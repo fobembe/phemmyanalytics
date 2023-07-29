@@ -1,0 +1,4 @@
+# Time-Series-Analysis
+Time Series Forecasting is very essential for the success of any business enterprise.  The ability to choose which of the several forecasting models to solve a particular problem at any point in time defines a good data scientist.  This project forecasts aggregate demand with differnt methods to find out which of the methods is more efficient.  In the SARIMA model, the model performs pretty good, moreover, when we incorporated other exogenous factors that affect aggregate demand, we recorded a much better result.
+
+This project suggest that in forecasting any variable in any field, it is very expedient for the data scientist to briefly go through the literatuare to find out if there are causal factors that have been identified.  This can improve the precision of the forecasts.
