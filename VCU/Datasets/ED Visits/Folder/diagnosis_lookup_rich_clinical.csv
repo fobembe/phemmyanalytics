@@ -1,0 +1,41 @@
+diagnosis_code,diagnosis_description,diagnosis_category,clinical_acuity,ed_visit_nature
+J06,Acute upper respiratory infection,Respiratory,Low acuity,Non-Emergent
+J18,Pneumonia,Respiratory,Moderate/High acuity,Emergent
+J45,Asthma,Respiratory,Moderate acuity,Emergent
+J20,Acute bronchitis,Respiratory,Low/Moderate acuity,Non-Emergent
+I21,Acute myocardial infarction,Cardiovascular,High acuity,Emergent
+I50,Heart failure,Cardiovascular,High acuity,Emergent
+R07,Chest pain,Cardiovascular,Moderate/High acuity,Emergent
+I10,Essential hypertension,Cardiovascular,Low/Moderate acuity,Non-Emergent
+O80,Full-term uncomplicated delivery,Obstetrics and Gynecology,Moderate acuity,Emergent
+O26,Pregnancy-related conditions,Obstetrics and Gynecology,Moderate acuity,Emergent
+N93,Abnormal uterine bleeding,Obstetrics and Gynecology,Low/Moderate acuity,Non-Emergent
+Z34,Supervision of normal pregnancy,Obstetrics and Gynecology,Low acuity,Non-Emergent
+M54,Back pain / dorsalgia,Musculoskeletal,Low acuity,Non-Emergent
+M25,Joint pain,Musculoskeletal,Low acuity,Non-Emergent
+S93,Ankle sprain,Musculoskeletal,Low/Moderate acuity,Non-Emergent
+M79,Soft tissue pain,Musculoskeletal,Low acuity,Non-Emergent
+R10,Abdominal pain,Gastrointestinal,Moderate acuity,Emergent
+K35,Acute appendicitis,Gastrointestinal,High acuity,Emergent
+K52,Gastroenteritis,Gastrointestinal,Low/Moderate acuity,Non-Emergent
+K40,Inguinal hernia,Gastrointestinal,Moderate acuity,Emergent
+R51,Headache,Neurological,Low acuity,Non-Emergent
+R55,Syncope and collapse,Neurological,Moderate/High acuity,Emergent
+G43,Migraine,Neurological,Low/Moderate acuity,Non-Emergent
+S06,Concussion / intracranial injury,Neurological,High acuity,Emergent
+E11,Type 2 diabetes mellitus,Endocrine and Metabolic,Low/Moderate acuity,Non-Emergent
+E86,Dehydration,Endocrine and Metabolic,Moderate acuity,Emergent
+E87,Electrolyte imbalance,Endocrine and Metabolic,Moderate acuity,Emergent
+E03,Hypothyroidism,Endocrine and Metabolic,Low acuity,Non-Emergent
+S01,Open wound of head,Injury and Trauma,Moderate acuity,Emergent
+S52,Fracture of forearm,Injury and Trauma,High acuity,Emergent
+T14,Unspecified injury,Injury and Trauma,Moderate acuity,Emergent
+S61,Open wound of wrist/hand,Injury and Trauma,Moderate acuity,Emergent
+F41,Anxiety disorder,Behavioral Health,Low/Moderate acuity,Non-Emergent
+F32,Depressive episode,Behavioral Health,Moderate acuity,Emergent
+F10,Alcohol-related disorder,Behavioral Health,Moderate acuity,Emergent
+F43,Stress reaction,Behavioral Health,Low/Moderate acuity,Non-Emergent
+N17,Acute kidney failure,Renal and Urinary,High acuity,Emergent
+N39,Urinary tract infection,Renal and Urinary,Low/Moderate acuity,Non-Emergent
+R31,Hematuria,Renal and Urinary,Moderate acuity,Emergent
+N20,Kidney stone,Renal and Urinary,Moderate/High acuity,Emergent
